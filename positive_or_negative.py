@@ -2,7 +2,7 @@
 
 # Created by: Joanne Santhosh
 # Created on: Oct 2022
-# This program gets the user to guess a number correctly or incorrectly
+# This program checks if the number input is positive or negative
 
 import math
 
